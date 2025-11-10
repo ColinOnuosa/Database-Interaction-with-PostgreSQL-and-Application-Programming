@@ -41,16 +41,17 @@ Run the schema and sample data above.
 
 Usage:
 
-getAllStudents: View all students
+getAllStudents(): View all students
 
-addStudent: Add new students
+addStudent(): Add new students
 
-updateStudentEmail: Update student info
+updateStudentEmail(): Update student info
 
-deleteStudent: Delete students by ID
+deleteStudent(): Delete students by ID
 
 Run:
 
 To run the code make sure to put in the appropriate function and parameters, then hit run on your compiler.
 
 LINK TO VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=x9MyFI2kBLw
+
