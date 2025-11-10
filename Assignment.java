@@ -86,16 +86,17 @@ public class Assignment {
 
     // MAIN FUNCTION THAT WILL HOST ONLY THE CRUD FUNCTIONS
     public static void main(String[] args) {
-//        getAllStudents();
-//        addStudent("yung", "jedah", "youngjeds@gmail.com" , Date.valueOf("2025-11-07") );
+       // getAllStudents();
+       // addStudent("yung", "jedah", "youngjeds@gmail.com" , Date.valueOf("2025-11-07") );
 
-//        getAllStudents();
-//        updateStudentEmail(10, "fakie2021@gmail.com");
+       // getAllStudents();
+       // updateStudentEmail(10, "fakie2021@gmail.com");
 
-        getAllStudents();
-        deleteStudent(10);
-        getAllStudents();
+        // getAllStudents();
+        // deleteStudent(10);
+        // getAllStudents();
     }
 
 }
+
 
