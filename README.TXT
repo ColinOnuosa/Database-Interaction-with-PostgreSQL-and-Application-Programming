@@ -49,5 +49,8 @@ updateStudentEmail: Update student info
 
 deleteStudent: Delete students by ID
 
+Run:
+
+To run the code make sure to put in the appropriate function and parameters, then hit run on your compiler.
 
 LINK TO VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=x9MyFI2kBLw
